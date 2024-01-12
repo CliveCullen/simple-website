@@ -25,3 +25,7 @@ img {
     display: block;
     padding: 1%;
 }
+
+.container{
+    text-align: center;
+}
