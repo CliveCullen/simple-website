@@ -43,8 +43,7 @@ img {
 .btn-primary{
     border-radius: 30px;
     border-color: black;
-
-    padding: 2%;
+    padding: 1%;
     margin:1%;
     background-color:rgb(53, 53, 53);
 }
@@ -52,8 +51,7 @@ img {
 .CV{
     border-radius: 30px;
     border-color: black;
-
-    padding: 2%;
+    padding: 1%;
     margin:1%;
     background-color:white;
 }
