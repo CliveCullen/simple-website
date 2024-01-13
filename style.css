@@ -30,6 +30,30 @@ img {
     text-align: center;
 }
 
-.navbar{
-    color:white;
+
+.navbar-custom{
+    background-color: white;
+}
+.navbar-brand{
+    color:black;
+    font: 24px;
+    
+}
+
+.btn-primary{
+    border-radius: 30px;
+    border-color: black;
+
+    padding: 2%;
+    margin:1%;
+    background-color:rgb(53, 53, 53);
+}
+
+.CV{
+    border-radius: 30px;
+    border-color: black;
+
+    padding: 2%;
+    margin:1%;
+    background-color:white;
 }
