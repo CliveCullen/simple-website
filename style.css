@@ -24,21 +24,68 @@ img {
     margin-right: auto;
     display: block;
     padding: 1%;
+    margin-top: 10%;
 }
 
 .container{
     text-align: center;
+    background-color:white;
+   
 }
 
 
-.navbar-custom{
-    background-color: white;
-}
-.navbar-brand{
-    color:black;
-    font: 24px;
+
+.navbar {
+  
     
 }
+.navbar-expand-lg {
+
+}
+.bg-light {
+    
+}
+.navbar-custom {
+   
+    
+}
+.container-fluid {
+    background-color: white; 
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.navbar-brand {
+    font-size:24px;  
+    font-family:sans-serif; 
+}
+.navbar-toggler {
+}
+.navbar-toggler-icon {
+}
+.collapse {
+}
+.navbar-collapse {
+}
+.navbar-nav {
+    background-color: white;
+}
+.me-auto {
+    background-color: white;
+}
+.mb-2 {
+}
+.mb-lg-0 {
+    background-color: white;
+}
+.nav-item {
+}
+.nav-link {
+}
+.active {
+    background-color: white;
+}
+
 
 .btn-primary{
     border-radius: 30px;
