@@ -1,3 +1,5 @@
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 body {
     background-color: white;
 }
@@ -11,6 +13,10 @@ h1{
 
 img {
     width: 100%;
+}
+
+.bi{
+    height:2rm;
 }
 
 .circular--square { 
@@ -101,4 +107,10 @@ img {
     padding: 1%;
     margin:1%;
     background-color:white;
+}
+
+.icon{
+    height: 2rem;
+    width: 2rem;
+    margin: 2%;
 }
