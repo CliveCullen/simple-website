@@ -26,8 +26,8 @@ img {
     border-top-right-radius: 50% 50%;
     border-bottom-right-radius: 50% 50%; 
     border-bottom-left-radius: 50% 50%;
-    height: 46vw;
-    width: auto;
+    height: 50%;
+    width: 50%;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -119,7 +119,6 @@ nav{
     width: 2rem;
     margin: 2%;
 }
-
-/*.profile{
-  height:83vh;
-}*/
+.profile{
+    display:inline-block;
+}
