@@ -49,16 +49,8 @@ nav{
   align-items: center;
     
 }
-.navbar-expand-lg {
 
-}
-.bg-light {
-    
-}
-.navbar-custom {
-   
-    
-}
+
 .container-fluid {
     background-color: white; 
     margin-top: 5%;
@@ -69,29 +61,18 @@ nav{
     font-size:24px;  
     font-family:sans-serif; 
 }
-.navbar-toggler {
-}
-.navbar-toggler-icon {
-}
-.collapse {
-}
-.navbar-collapse {
-}
+
 .navbar-nav {
     background-color: white;
 }
 .me-auto {
     background-color: white;
 }
-.mb-2 {
-}
+
 .mb-lg-0 {
     background-color: white;
 }
-.nav-item {
-}
-.nav-link {
-}
+
 .active {
     background-color: white;
 }
